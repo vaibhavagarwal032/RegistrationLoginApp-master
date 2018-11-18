@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "933127506511",
+    "firebase_url": "https://registrationloginpage.firebaseio.com",
+    "project_id": "registrationloginpage",
+    "storage_bucket": "registrationloginpage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933127506511:android:210e803ea33e29e6",
+        "android_client_info": {
+          "package_name": "com.study.gouravsaini.registrationloginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933127506511-frvrjga4g0hdb46v436hi0gj341jo64u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk9n3iMOjNOdFSUyj51kxILLPCGQwoHSo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
